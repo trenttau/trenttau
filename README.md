@@ -1,3 +1,5 @@
-## Hi there 
+## Hi there 👋
 
-I'm Trent
+Trent Tauber
+Major: Data Science/Economics
+Expected Graduation Date: 04/2028
