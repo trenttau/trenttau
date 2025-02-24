@@ -1,4 +1,4 @@
-## Hi there 👋
+## Merge pull request 1 from trenttau resume
 
 Trent Tauber
 Major: Data Science/Economics
